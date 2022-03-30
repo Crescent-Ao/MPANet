@@ -12,7 +12,7 @@ extracted by the large-scale branch and fine-grained features
 extracted by the local branches are fused through the de-
 veloped bottom-up structure. Extensive experiments on the
 public SIRST dataset.
-![network](\Image\MPANet.png)
+![network](./image/MPANet.png)
 The segmentation results are as follows:
 <img alt="result" src="\Image\Results.png"/>
 There are so 
