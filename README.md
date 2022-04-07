@@ -15,4 +15,5 @@ public SIRST dataset.
 ![network](./Image/MPANet.png)
 The segmentation results are as follows:
 <img alt="result" src="./Image/Results.png"/>
-There are so 
+# ✨✨🎉🎉
+MPANet has been accepted by IGARSS 2022 (oral).I will release a new dataset which consist of 1077 images. It includes sirst dataset, MD vs FA dataset and completely new infrared data with high quality annotations.In the meanwhile, I alse make some improvements on MPANet, which make its inference speed faster 60% than the older in a little cost. It overcomes the problem of inability to communicate between MPANet sub-patches through a pyramid-like patch fusion method.
