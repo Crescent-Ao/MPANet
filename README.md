@@ -1,3 +1,4 @@
+# This is no final version.I will commit all the changes after I finished my experiment. If you need it, please open issue so that I can give you the newest code. Thanks
 ## MPANet:Multi-Patch Attention for Infrared Target Detection
 Hello,every one.This is MPAnet offical implementation.In this repo ,I will integrate nearly all
 metric to this model.Because it is my first one to update a complete repo. It exists some errors in this repo.If you have
